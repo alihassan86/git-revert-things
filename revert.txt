@@ -1,0 +1,5 @@
+Rust is a general purpose programming language sponsored by Mozilla Research.
+ It is designed to be a "safe, concurrent, practical language", supporting functional and imperative-procedural paradigms. 
+Rust is syntactically similar to C++, but is designed for better memory safety while maintaining performance. Rust is open source software. The design of the language has been refined through the experiences of writing the Servo web browser layout engine and the Rust compiler. A large portion of current commits to the project are from community members.
+
+ Rust won first place for "most loved programming language" in the Stack Overflow Developer Survey in 2016 and 2017.
